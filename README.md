@@ -1,7 +1,9 @@
-### Hi there 👋
+## Howdy 👋
 
 
 I am a **Fullstack Developer** passionate about building scalabe software solutions that solve real world problems.
+
+- 📫 How to reach me: **godwinbee15@gmail.com**
 <!--
 Here are some ideas to get you started:
 
@@ -10,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: **godwinbee15@gmail.com**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
